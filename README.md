@@ -30,7 +30,7 @@ In this lesson we will use the example of `Student`, `Enrollment`, and `Course` 
 ## Aggregate methods
 
 Lets try an easy example of an aggregate method that counts the number of courses a `Student` is a part of. For this method all we need to do is
-look at the count of all the enrollments in the `Student` object.
+look at the count of all the enrollments in the `Student` objec.
 
 ```py
 def course_count(self):
